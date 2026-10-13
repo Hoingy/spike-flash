@@ -1,0 +1,8 @@
+name: SpikeFlash
+version: '1.0'
+
+main: org.bordenj.hoyopark.Main
+api-version: '26.3'
+load: POSTWORLD
+
+depend: [ProtocolLib]
